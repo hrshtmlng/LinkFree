@@ -1,29 +1,23 @@
+
 {
   "name": "Harshit Malang",
-  "displayStatsPublic": true,
   "type": "personal",
-  "bio": "Front-end developer on the way to full stack",
-  "avatar": "https://github.com/hrshtmlng.png",
+  "bio": "Student in a way to learn full stack development",
   "links": [
     {
       "name": "Follow me on Twitter",
       "url": "https://twitter.com/hrshtmlng",
       "icon": "FaTwitter"
     },
-    {
-      "name": "Follow me on Instagram",
-      "url": "https://www.instagram.com/hrshtmlng/",
-      "icon": "FaInstagram"
+     {
+      "name": "Follow me on Github",
+      "url": "https://github.com/hrshtmlng",
+      "icon": "FaGithub"
     },
-    {
+     {
       "name": "Follow me on Linkedin",
       "url": "https://www.linkedin.com/in/harshit-malang-3968011aa/",
-      "icon": "FaLinkedi"
-    },
-    {
-      "name": "Follow me on GitHub",
-      "url": "https://www.github.com/in/hrshtmlng",
-      "icon": "FaGithub"
+      "icon": "FaLinkedin"
     }
   ]
 }
