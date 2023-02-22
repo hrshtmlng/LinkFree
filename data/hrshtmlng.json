@@ -1,4 +1,3 @@
-
 {
   "name": "Harshit Malang",
   "type": "personal",
@@ -9,12 +8,12 @@
       "url": "https://twitter.com/hrshtmlng",
       "icon": "FaTwitter"
     },
-     {
+    {
       "name": "Follow me on Github",
       "url": "https://github.com/hrshtmlng",
       "icon": "FaGithub"
     },
-     {
+    {
       "name": "Follow me on Linkedin",
       "url": "https://www.linkedin.com/in/harshit-malang-3968011aa/",
       "icon": "FaLinkedin"
